@@ -1,4 +1,4 @@
-# Modelos-Arima-Para-Infla-o
+# Modelos-Arima-Para-Inflação
  
  Para onde vai a inflação? Nas economias que se encontram no pós-pandemia, a desorganização
 das cadeias produtivas e as restrições de oferta encontraram a demanda (outrora reprimida) sem
